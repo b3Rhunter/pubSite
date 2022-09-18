@@ -1,0 +1,133 @@
+{
+    "basics": {
+        "name": "pub-gmn.eth 🦇🔊🐼",
+        "label": "Blockend Developer",
+        "email": "stantonsailsbury@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "mt.png",
+        "x_title": "Good Morning! I am",
+        "job1": "Web3",
+        "job2": "Designer",
+        "description": "Hello! I'm Pub! Your web3 development enthusiast. My expertise is with Solidity and React js languages! Just like markdown, I'm here to help you create beautifully formatted blockchain applications.",
+        "summary": "based in New York. I mean Kansas.",
+        "keywords": "pub, gmn, good morning news, personal,website,portfolio,template,kit,webdev,web,developer,react,github,linkedin,google,material,design,ui,webapp,markdown",
+        "url": "https://test",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "",
+            "country": "",
+            "countryCode": "",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "b3arhunter@yahoo.com",
+                "url": "mailto:b3arhunter@yahoo.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "GitHub",
+                "username": "b3arhunter",
+                "url": "https://github.com/b3Rhunter",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Twitter",
+                "username": "pub-gmn",
+                "url": "https://twitter.com/B3Rhunter",
+                "x_icon": "fab fa-twitter"
+            },
+            {
+                "network": "Discord",
+                "username": "pub-gmn.eth 🦇🔊🐼#6438",
+                "url": "https://discord.gg/sZSJbsZeez",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "German",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
